@@ -1,0 +1,7 @@
+﻿  ConsoleApplication160.cpp
+C:\Users\Ol\source\repos\ConsoleApplication160\ConsoleApplication160.cpp(89,21): error C2131: выражение не определяется константой
+  C:\Users\Ol\source\repos\ConsoleApplication160\ConsoleApplication160.cpp(89,23):
+  сбой вызван чтением переменной вне срока ее существования
+  C:\Users\Ol\source\repos\ConsoleApplication160\ConsoleApplication160.cpp(89,23):
+  см. использование "a"
+  
